@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="flex flex-col items-center bg-[#e0e8ff] h-screen">
+    <div className="absolute flex flex-col items-center h-screen bg-[#e0e8ff] md:w-full">
       <div className="p-6 m-auto w-fit">
         <div>
           <img
